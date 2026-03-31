@@ -4,7 +4,7 @@ A simple plugin for Equicord/Vencord that lets you send messages that automatica
 
 ## Preview
 
-![TempMessage preview](preview.gif)
+![TempMessage preview](https://github.com/user-attachments/assets/3fdb0da9-426e-4824-ada2-3bb4a2b57b97)
 
 ## Installation
 
